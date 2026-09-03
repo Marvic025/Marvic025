@@ -1,6 +1,6 @@
 # ¡Hola, soy Marvic May Salazar! 👋
 
-Técnico Superior Universitario en Desarrollo de Software y estudiante en fase final de **Ingeniería en Desarrollo De Software** en la Universidad Tecnológica del Centro (UTC) en Izamal.
+Técnico Superior Universitario en Desarrollo de Software y estudiante en fase final de **Ingeniería en Desarrollo de Software** en la Universidad Tecnológica del Centro en Izamal.
 
 Apasionado por la ingeniería de software, chico geek apasionado de la musica🤓.
 ---
