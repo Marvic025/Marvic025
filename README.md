@@ -1,8 +1,8 @@
 # ¡Hola, soy Marvic May Salazar! 👋
 
-Técnico Superior Universitario en Desarrollo de Software y estudiante en fase final de **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica del Centro (UTC).
+Técnico Superior Universitario en Desarrollo de Software y estudiante en fase final de **Ingeniería en Desarrollo De Software** en la Universidad Tecnológica del Centro (UTC) en Izamal.
 
-Apasionado por la ingeniería de software, chico geek apasionado de la musica.
+Apasionado por la ingeniería de software, chico geek apasionado de la musica🤓.
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -14,7 +14,7 @@ Apasionado por la ingeniería de software, chico geek apasionado de la musica.
 
 ---
 
-## 🚀 Proyectos Principales realizados en la carrera:
+## 🚀 Proyectos Principales que realice en la carrera:
 
 ### 🌐 Sistema Web & Agendamiento de Citas para un cosultorio
 * **Descripción:** Sistema integral para la gestión y agendamiento automatizado de citas de un consultorio de psicología.
