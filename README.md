@@ -3,16 +3,6 @@
 Técnico Superior Universitario en Desarrollo de Software y estudiante en fase final de **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica del Centro (UTC).
 
 Apasionado por la ingeniería de software aplicada, el desarrollo backend, integraciones web, análisis de datos y proyectos interactivos 3D/VR.
-
----
-
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvic025&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvic025&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -25,9 +15,9 @@ Apasionado por la ingeniería de software aplicada, el desarrollo backend, integ
 
 ---
 
-## 🚀 Proyectos Principales
+## 🚀 Proyectos Principales realizados en la carrera:
 
-### 🌐 Sistema Web & Agendamiento de Citas Clínicas
+### 🌐 Sistema Web & Agendamiento de Citas para un cosultorio
 * **Descripción:** Sistema integral para la gestión y agendamiento automatizado de citas de un consultorio de psicología.
 * **Características:** Integración con **Google Calendar API**, notificaciones multicanal (correo y mensajes de confirmación) y reportes en PDF y Excel.
 * **Tecnologías:** Python, Django, MySQL, REST APIs, Render.
@@ -42,7 +32,7 @@ Apasionado por la ingeniería de software aplicada, el desarrollo backend, integ
 
 ### 🎮 Arithel: La Fórmula de la Esperanza
 * **Descripción:** Videojuego educativo 2D seleccionado como propuesta representativa institucional para eventos del área de matemáticas.
-* **Tecnologías:** Unity (C#).
+* **Tecnologías:** Unity (C#) y firebase.
 
 ---
 ## 📬 Contacto
@@ -50,4 +40,4 @@ Apasionado por la ingeniería de software aplicada, el desarrollo backend, integ
 - 📍 **Ubicación**: Izamal / Mérida, Yucatán, México
 - 💼 **LinkedIn**: [Marvic Adriel May Salazar](https://www.linkedin.com/in/marvic-adriel-may-salazar-b80a60428/)
 - 🐙 **GitHub**: [@Marvic025](https://github.com/Marvic025)
-- ✉️ **Email**: [Contacto Directo](mailto:tu-correo@ejemplo.com)
+- ✉️ **Email**: [Contacto Directo](mailto:marvic978@gmail.com)
