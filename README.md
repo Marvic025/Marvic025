@@ -1,4 +1,4 @@
-# ¡Hola, soy Marvic Salazar! 👋
+# ¡Hola, soy Marvic May Salazar! 👋
 
 Técnico Superior Universitario en Desarrollo de Software y estudiante en fase final de **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica del Centro (UTC).
 
