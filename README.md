@@ -45,19 +45,6 @@ Apasionado por la ingeniería de software aplicada, el desarrollo backend, integ
 * **Tecnologías:** Unity (C#).
 
 ---
-
-## 🌐 Conéctate Conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marvic-adriel-may-salazar-b80a60428/">
-    <img src="https://img.shields.org/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Marvic025">
-    <img src="https://img.shields.org/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-📍 **Ubicación:** Izamal / Mérida, Yucatán, México
 ## 📬 Contacto
 
 - 📍 **Ubicación**: Izamal / Mérida, Yucatán, México
