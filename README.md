@@ -2,11 +2,10 @@
 
 Técnico Superior Universitario en Desarrollo de Software y estudiante en fase final de **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica del Centro (UTC).
 
-Apasionado por la ingeniería de software aplicada, el desarrollo backend, integraciones web, análisis de datos y proyectos interactivos 3D/VR.
+Apasionado por la ingeniería de software, chico geek apasionado de la musica.
 ---
 
 ## 🛠️ Stack Tecnológico
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,nodejs,fastapi,postgres,mysql,mongodb,firebase,flutter,dart,cs,unity,godot,blender,git,github,vscode,linux&perline=9" />
